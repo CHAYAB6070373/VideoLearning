@@ -52,7 +52,7 @@
     "uniqCompNum": 54,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/small-poly-3350169-960-720-128x85-2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/small-poly-3350169-960-720-128x85_2.png",
     "noImageResize": ""
   },
   "pages": {
