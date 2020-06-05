@@ -714,7 +714,7 @@ section.lazy-placeholder:after {
 }
 .cid-s13ebr93wC {
   background: #ff3366;
-  padding-top: 75px;
+  padding-top: 90px;
   padding-bottom: 30px;
   background: linear-gradient(45deg, #ff3366, #0f7699);
 }
@@ -727,7 +727,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s13fMQ2zae {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-image: url("../../../assets/images/mbr-1920x1235.jpg");
 }
@@ -773,6 +773,10 @@ section.lazy-placeholder:after {
 }
 .cid-rExn4NGKuz .card {
   padding-bottom: 1.5rem;
+}
+.cid-rExn4NGKuz .mbr-text,
+.cid-rExn4NGKuz .mbr-section-btn {
+  color: #ffe30a;
 }
 .cid-rExQyrVW7c {
   padding-top: 15px;
