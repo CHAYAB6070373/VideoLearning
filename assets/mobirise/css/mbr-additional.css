@@ -712,16 +712,17 @@ section.lazy-placeholder:after {
 .cid-rDglbudKXi {
   background-image: url("../../../assets/images/mbr-1920x1235.jpg");
 }
-.cid-s18BwyGoTZ {
+.cid-s18AUOJ0cK {
   background: #ff3366;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #ff3366, #0f7699);
 }
-.cid-s18BwyGoTZ .video-block {
+.cid-s18AUOJ0cK .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-s18BwyGoTZ .video-block {
+  .cid-s18AUOJ0cK .video-block {
     width: 100% !important;
   }
 }
